@@ -1,7 +1,8 @@
+package TP8;
+
 public class MaThread implements Runnable
 {
     private String nom;
-
     public MaThread(String nom)
     {
         this.nom = nom;

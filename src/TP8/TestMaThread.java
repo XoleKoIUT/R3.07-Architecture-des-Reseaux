@@ -1,3 +1,5 @@
+package TP8;
+
 public class TestMaThread
 {
     public static void main(String[] arg) {
